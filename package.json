@@ -1,0 +1,37 @@
+{
+  "name": "link-teste-cadastro",
+  "version": "1.0.0",
+  "description": "Um teste de cadastro para a Link Informática, em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetoFernandess/link-teste-cadastro.git"
+  },
+  "keywords": [
+    "cadastro",
+    "crud",
+    "node",
+    "mongodb",
+    "mern"
+  ],
+  "author": "Link Informática",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetoFernandess/link-teste-cadastro/issues"
+  },
+  "homepage": "https://github.com/BetoFernandess/link-teste-cadastro#readme",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18"
+  },
+  "devDependencies": {}
+}
